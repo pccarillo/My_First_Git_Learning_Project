@@ -11,6 +11,8 @@ namespace My_First_Git_Learning_Project
 
             // Display the second message of ISM 4300
             Console.WriteLine("This is ISM 4300!");
+
+            Console.ReadKey(true);
         }
     }
 }
